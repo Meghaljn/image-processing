@@ -1,8 +1,6 @@
 '''
 *replication.py
 * Created on: feb 12, 2020
-* Author: Rishika vaish(18ucs169)
- Meghal jain(18ucs224)
  '''
 
 import cv2
