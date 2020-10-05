@@ -1,5 +1,4 @@
 '''
-*replication.py
 * Created on: feb 12, 2020
  '''
 
